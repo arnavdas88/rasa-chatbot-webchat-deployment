@@ -1,0 +1,30 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+flask = "*"
+flask-sqlalchemy = "*"
+"psycopg2" = "*"
+gunicorn = "*"
+rasa_core==0.13.3
+rasa_sdk==1.0.0
+rasa_core_sdk==0.14.0
+rasa_nlu[spacy]
+nltk
+numpy
+pandas
+scikit-learn
+
+
+[requires]
+
+python_version = "3.6"
