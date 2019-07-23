@@ -18,7 +18,7 @@ gunicorn = "*"
 rasa_core==0.13.3
 rasa_sdk==1.0.0
 rasa_core_sdk==0.14.0
-rasa_nlu[spacy]
+"rasa_nlu[spacy]"
 nltk
 numpy
 pandas
