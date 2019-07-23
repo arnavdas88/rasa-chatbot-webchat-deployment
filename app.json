@@ -1,0 +1,15 @@
+{
+  "name": "Smart Video Surveillance Api",
+  "description": "A smart cctv video surveillance Flask app on Heroku",
+  "keywords": [
+    "flask",
+    "python",
+    "sample"
+  ],
+  "repository": "https://github.com/arnavdas88/Flask-VideoSurvil-api/",
+  "scripts": {
+    "postdeploy": ""
+  },
+  "addons": [
+  ]
+}
